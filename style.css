@@ -46,6 +46,29 @@
       padding-top: 1rem;
   }
 
+  @media (min-width:320px) and (max-width:480px) {
+    
+    
+    .kontakt{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .display-2{
+        font-size: 3rem !important;
+    }
+
+    .navbar {
+        width: 100% !important;
+    }
+
+    .gmap-canvas{
+        width: 100px !important;
+    }
+    
+      
+}
+
 
   
  
