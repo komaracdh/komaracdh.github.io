@@ -1,0 +1,51 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .celina {
+    
+      
+      padding: 3rem;
+      
+      
+
+  }
+
+  body {
+      margin-left: 0;
+      margin-right: 0;
+      font-family: 'Alegreya', serif !important;
+  }
+
+  .container {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+      align-content: center !important;
+      
+  }
+
+  .usluge {
+      background: lightblue;
+     display: flex !important;
+     justify-content: center !important;
+      
+  }
+
+  .celina li {
+      font-size: 1.5rem;
+  }
+  
+  .kontakt {
+      display: flex;
+      justify-content: center;
+      padding-top: 1rem;
+  }
+
+
+  
+ 
